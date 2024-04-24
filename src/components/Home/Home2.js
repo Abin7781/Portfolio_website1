@@ -57,6 +57,7 @@ function Home2() {
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
+            
           </Col>
         </Row>
         <Row>

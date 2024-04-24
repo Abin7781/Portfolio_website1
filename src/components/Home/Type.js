@@ -19,4 +19,5 @@ function Type() {
   );
 }
 
+
 export default Type;

@@ -49,6 +49,7 @@ function Techstack() {
         <DiCss3 />
       </Col>
     </Row>
+    
   );
 }
 

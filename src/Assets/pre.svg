@@ -15,6 +15,7 @@
                      calcMode="linear"
                      repeatCount="indefinite" />
             </circle>
+            
             <circle cx="27" cy="5" r="5">
                 <animate attributeName="cy"
                      begin="0s" dur="2.2s"
